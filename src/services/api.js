@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'axios'; // eslint-disable-line
 
 // <---------------- Alterado por gemini: Configuração centralizada da API
 const api = axios.create({
